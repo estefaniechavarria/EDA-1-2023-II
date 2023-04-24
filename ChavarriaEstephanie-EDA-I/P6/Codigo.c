@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<string.h>
 
-#define MAX 2
+#define MAX 5
 
 
 void addFront(int *, int, int *, int *);
